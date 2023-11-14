@@ -1,5 +1,5 @@
 # Vercel Link
- [Vercel](https://currency-converter-nine-gamma.vercel.app)
+- [Vercel](https://currency-converter-nine-gamma.vercel.app)
 
 # React + Vite
 
